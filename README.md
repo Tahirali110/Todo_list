@@ -20,7 +20,7 @@ The **Todo List App** is a simple and efficient task management tool that helps 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Tahirali110/Todo_list.git
-   cd Todo-list
+   cd todo_list
    ```
 2. Install dependencies:
    ```bash
